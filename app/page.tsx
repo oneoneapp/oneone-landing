@@ -16,6 +16,15 @@ const Home: React.FC = () => {
         <h1 className="text-xl font-bold text-yellow-500 mt-3 uppercase animate-pulse">
           Coming Soon
         </h1>
+        
+        <footer className="absolute bottom-8 text-gray-500 text-sm flex gap-6">
+          <a href="/terms" className="hover:text-gray-300 transition-colors">
+            Terms of Service
+          </a>
+          <a href="/privacy" className="hover:text-gray-300 transition-colors">
+            Privacy Policy
+          </a>
+        </footer>
     </div>
   );
 };
