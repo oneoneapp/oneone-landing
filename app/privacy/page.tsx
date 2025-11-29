@@ -16,10 +16,10 @@ export default function PrivacyPolicy() {
         <div className="space-y-8">
           <section>
             <p className="mb-4">
-              At <strong>One One</strong>, respect for privacy and protection of our users' personal data (the "<strong>data</strong>") are part of our fundamental values. Our friends and family use One One every day, so we can guarantee that you will be treated the same way 🫶
+              At <strong>One One</strong>, respect for privacy and protection of our users&apos; personal data (the &quot;<strong>data</strong>&quot;) are part of our fundamental values. Our friends and family use One One every day, so we can guarantee that you will be treated the same way 🫶
             </p>
             <p className="mb-4">
-              We are aware that others before us have given apps a bad reputation in terms of data management 🤡, that's why we want to clarify some key points right from the start:
+              We are aware that others before us have given apps a bad reputation in terms of data management 🤡, that&apos;s why we want to clarify some key points right from the start:
             </p>
 
             <div className="bg-gray-900 p-6 rounded-lg space-y-6 border border-gray-800">
@@ -27,7 +27,7 @@ export default function PrivacyPolicy() {
                 <span className="text-2xl">🔒</span>
                 <div>
                   <h3 className="text-white font-bold text-lg">Ephemeral Conversations</h3>
-                  <p>All your conversations are ephemeral by design. We cannot listen to them and we don't even store them! We do not store any voice recordings.</p>
+                  <p>All your conversations are ephemeral by design. We cannot listen to them and we don&apos;t even store them! We do not store any voice recordings.</p>
                 </div>
               </div>
 
@@ -52,7 +52,7 @@ export default function PrivacyPolicy() {
           <section>
             <h2 className="text-2xl font-bold text-white mb-4">App Functionality & Permissions</h2>
             <p className="mb-4">
-              To provide the "walkie-talkie" experience, One One requires specific permissions:
+              To provide the &quot;walkie-talkie&quot; experience, One One requires specific permissions:
             </p>
             <ul className="list-disc pl-5 space-y-2 mb-4">
               <li><strong>Microphone:</strong> To record your voice messages when you push to talk.</li>
