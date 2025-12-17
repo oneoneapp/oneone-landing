@@ -20,7 +20,7 @@ const dmSans = DM_Sans({
 
 export const metadata: Metadata = {
   title: "One One",
-  description: "Open Source social media service that turns your phone into a walkie-talkie",
+  description: "Social media service that turns your phone into a walkie-talkie",
   icons: [
     {
       rel: "icon",
