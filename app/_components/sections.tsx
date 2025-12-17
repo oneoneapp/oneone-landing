@@ -2,7 +2,6 @@ import Image from 'next/image';
 import React from 'react';
 import { HowStep } from './HowStep';
 import {
-  ArrowRightIcon,
   DownloadIcon,
   EyeIcon,
   HandIcon,
