@@ -6,7 +6,7 @@ export default function TermsOfService() {
     <div className="min-h-screen bg-black text-gray-300 p-8 font-sans">
       <div className="max-w-3xl mx-auto">
         <div className="mb-8">
-          <Link href="/" className="text-yellow-500 hover:underline">
+          <Link href="/" className="text-[#FDEC00] hover:underline">
             &larr; Back to Home
           </Link>
         </div>
@@ -16,63 +16,93 @@ export default function TermsOfService() {
         <div className="space-y-8">
           <section>
             <p className="mb-4">
-              We’ve drafted these Terms of Service (“<strong>Terms</strong>”) so you’ll know the rules that govern our relationship with you as a user of One One (“<strong>Services</strong>”).
+              These Terms of Service ("Terms") explain the rules and conditions that apply when you use One One ("we," "our," or "us") and its services (the "Services").
             </p>
             <p className="mb-4">
-              Although we have tried to make these Terms as simple as possible to understand 😎, there are places where they may still read like a traditional contract. There’s a good reason for that: these Terms form a legally binding contract between you and One One (&quot;<strong>One One</strong>,&quot; &quot;<strong>our</strong>,&quot; &quot;<strong>we</strong>,&quot; or &quot;<strong>us</strong>&quot;). So please read them carefully.
-            </p>
-            <p className="mb-4">
-              By accessing or using the Services, you accept and agree to comply with these Terms. You also confirm that you have read our <Link href="/privacy" className="text-yellow-500 hover:underline">Privacy Policy</Link>.
-            </p>
-            <p className="mb-4">
-              We are constantly working to improve our Services and develop new features to make our products even better for you. Therefore, we may need to update these Terms from time to time to reflect our Services and practices correctly. We will only make changes if the provisions are no longer appropriate or incomplete. We will notify you of material changes to the Terms, but we encourage you to check the Terms frequently to learn about any changes. Your continued use of the Services after any changes to the Terms constitutes your acceptance of the amended Terms.
+              By accessing or using our Services, you confirm that you understand and agree to these Terms. You also acknowledge that you have reviewed and accepted our <Link href="/privacy" className="text-[#FDEC00] hover:underline">Privacy Policy</Link>.
             </p>
           </section>
 
           <section>
-            <h2 className="text-2xl font-bold text-white mb-4">Disclaimers and Release</h2>
-            <div className="bg-gray-900 p-6 rounded-lg border border-gray-800">
-              <p className="mb-4">
-                You use our Services at your own risk and subject to the following disclaimers. We are providing our Services on an &quot;as is&quot; basis without any express or implied warranties, including, but not limited to, warranties of merchantability, fitness for a particular purpose, title, non-infringement, and freedom from computer virus or other harmful code.
-              </p>
-              <p className="mb-4">
-                We do not warrant that any information provided by us is accurate, complete, or useful, that our Services will be operational, error free, secure, or safe, or that our Services will function without disruptions, delays, or imperfections.
-              </p>
-              <p className="mb-4">
-                We do not control and are not responsible for, controlling how or when our users use our Services or the features, services, and interfaces our Services provide. We are not responsible for and are not obligated to control the actions or information (including content) of our users or other third-parties.
-              </p>
-              <p>
-                You release us, our subsidiaries, affiliates, and our and their directors, officers, employees, partners, and agents (together, the &quot;One One Parties&quot;) from any claim, complaint, cause of action, controversy, or damages (together, &quot;Claim&quot;), known and unknown, relating to, arising out of, or in any way connected with any such Claim you have against any third-parties.
-              </p>
-            </div>
+            <h2 className="text-2xl font-bold text-white mb-4">Changes to These Terms</h2>
+            <p className="mb-4">
+              We're continuously improving One One and may update these Terms from time to time to reflect changes in our Services, features, or legal requirements. Updates will only be made when necessary. If we make significant changes, we'll notify you. However, we recommend checking these Terms periodically. Continuing to use the Services after changes are published means you accept the updated Terms.
+            </p>
           </section>
 
           <section>
-            <h2 className="text-2xl font-bold text-white mb-4">🫡 Limitation of Liability</h2>
+            <h2 className="text-2xl font-bold text-white mb-4">Disclaimers</h2>
             <p className="mb-4">
-              One One is only liable to the following extent:
+              You use One One at your own discretion and risk.
+            </p>
+            <p className="mb-4">
+              The Services are provided "as is" and "as available," without any guarantees or warranties of any kind. This includes, but is not limited to, implied warranties of merchantability, suitability for a specific purpose, non-infringement, ownership, or absence of harmful software.
+            </p>
+            <p className="mb-4">
+              We do not guarantee that:
+            </p>
+            <ul className="list-disc pl-5 space-y-2 mb-4">
+              <li>The Services will always be available, secure, or error-free</li>
+              <li>Information provided through the Services will be accurate, complete, or reliable</li>
+              <li>The Services will operate without delays, interruptions, or technical issues</li>
+            </ul>
+            <p className="mb-4">
+              We do not oversee or control how users interact with the Services. As such, we are not responsible for user behavior, shared content, or actions taken by third parties.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="text-2xl font-bold text-white mb-4">Release</h2>
+            <p className="mb-4">
+              To the fullest extent permitted by law, you agree to release and hold harmless One One, including its affiliates, subsidiaries, officers, directors, employees, partners, and agents (collectively, the "One One Parties"), from any claims, disputes, liabilities, or damages arising out of or related to:
+            </p>
+            <ul className="list-disc pl-5 space-y-2 mb-4">
+              <li>Your interactions with other users</li>
+              <li>Third-party actions or content</li>
+              <li>Any disputes you may have with parties other than One One</li>
+            </ul>
+            <p className="mb-4">
+              This applies to claims that are known or unknown, suspected or unsuspected.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="text-2xl font-bold text-white mb-4">Limitation of Liability</h2>
+            <p className="mb-4">
+              One One's liability is limited as follows:
             </p>
             <ul className="list-disc pl-5 space-y-2 mb-4">
               <li>
-                One One is liable without limitation in accordance with the statutory provisions for damages resulting from injury to life, body or health; in the case of intent; in the case of gross negligence; and in accordance with the Product Liability Directive.
+                We remain fully liable where required by law, including for damages related to life, bodily injury, health, intentional misconduct, gross negligence, or applicable product liability laws.
               </li>
               <li>
-                One One will exercise professional diligence in providing the Services to you. Provided that we have acted with professional diligence, One One does not accept responsibility for losses not caused by our breach of these Terms or otherwise by our acts; losses that are not reasonably foreseeable by you and us at the time of entering into these Terms; and events beyond our reasonable control.
+                We commit to providing the Services with reasonable professional care.
               </li>
+            </ul>
+            <p className="mb-4">
+              Except where legally required, One One is not responsible for:
+            </p>
+            <ul className="list-disc pl-5 space-y-2 mb-4">
+              <li>Losses not caused by our breach of these Terms</li>
+              <li>Damages that were not reasonably foreseeable at the time these Terms were agreed</li>
+              <li>Events beyond our reasonable control</li>
             </ul>
           </section>
 
           <section>
             <h2 className="text-2xl font-bold text-white mb-4">User Conduct</h2>
             <p className="mb-4">
-              One One is a social app designed for fun communication between friends. By using the app, you agree not to:
+              One One is built to enable simple, real-time communication between friends. By using the Services, you agree that you will not:
             </p>
-            <ul className="list-disc pl-5 space-y-2">
-              <li>Use the service for any illegal purpose.</li>
-              <li>Harass, bully, or intimidate other users.</li>
-              <li>Interfere with or disrupt the integrity or performance of the Services.</li>
-              <li>Attempt to gain unauthorized access to the Services or related systems.</li>
+            <ul className="list-disc pl-5 space-y-2 mb-4">
+              <li>Use the app for unlawful or unauthorized purposes</li>
+              <li>Harass, threaten, bully, or abuse other users</li>
+              <li>Disrupt or interfere with the operation, security, or performance of the Services</li>
+              <li>Attempt to access systems, accounts, or data without permission</li>
             </ul>
+            <p className="mb-4">
+              Failure to follow these rules may result in suspension or termination of your access to One One.
+            </p>
           </section>
         </div>
         
