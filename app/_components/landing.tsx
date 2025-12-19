@@ -3,13 +3,14 @@ import { FaGooglePlay, FaAppStore } from 'react-icons/fa'
 import { FaInstagram } from 'react-icons/fa'
 import { FaXTwitter } from 'react-icons/fa6'
 import Link from 'next/link'
+import Image from 'next/image'
 
 function Landing() {
   return (
     <div className='bg-[#FDEC00] min-h-screen flex flex-col items-center justify-between py-8 px-4'>
         
         <div className="flex-1 flex items-center justify-center">
-          <img src="1-1 -black.png" className="w-36"  alt="OneOne Logo" />
+          <Image src="/1-1 -black.png" width={144} height={144} alt="OneOne Logo" />
         </div>
 
         <div className="flex flex-col items-center gap-6 mb-8">

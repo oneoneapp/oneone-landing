@@ -16,7 +16,7 @@ export default function PrivacyPolicy() {
         <div className="space-y-8">
           <section>
             <p className="mb-4">
-              At One One, protecting your privacy isn't just a requirement — it's a core principle. We built this app for real people we care about, and we treat your data with the same respect we'd expect for our own 🤍
+              At One One, protecting your privacy isn&apos;t just a requirement — it&apos;s a core principle. We built this app for real people we care about, and we treat your data with the same respect we&apos;d expect for our own 🤍
             </p>
     
           </section>
@@ -28,7 +28,7 @@ export default function PrivacyPolicy() {
               <div className="flex gap-4">
                 <span className="text-2xl">🔐</span>
                 <div>
-                  <h3 className="text-white font-bold text-lg mb-2">Conversations That Don't Linger</h3>
+                  <h3 className="text-white font-bold text-lg mb-2">Conversations That Don&apos;t Linger</h3>
                   <p>
                     One One is designed around small communication. Your voice conversations are transmitted in real time and are never recorded or stored. We cannot access, replay, or listen to your conversations.
                   </p>
@@ -79,7 +79,7 @@ export default function PrivacyPolicy() {
                 <div>
                   <h3 className="text-white font-bold text-lg mb-2">Background Audio</h3>
                   <p>
-                    Allows you to hear incoming voice messages even when the app is running in the background or the screen is locked, as long as you're connected to the internet — so you stay connected without interruptions.
+                    Allows you to hear incoming voice messages even when the app is running in the background or the screen is locked, as long as you&apos;re connected to the internet — so you stay connected without interruptions.
                   </p>
                 </div>
               </div>
@@ -99,7 +99,7 @@ export default function PrivacyPolicy() {
           <section>
             <h2 className="text-2xl font-bold text-white mb-4">Contact Us</h2>
             <p>
-              If you have any questions, concerns, or feedback regarding this Privacy Policy or how One One handles your data, feel free to reach out to us. We're always happy to clarify.
+              If you have any questions, concerns, or feedback regarding this Privacy Policy or how One One handles your data, feel free to reach out to us. We&apos;re always happy to clarify.
             </p>
           </section>
         </div>

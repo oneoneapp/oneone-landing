@@ -16,7 +16,7 @@ export default function TermsOfService() {
         <div className="space-y-8">
           <section>
             <p className="mb-4">
-              These Terms of Service ("Terms") explain the rules and conditions that apply when you use One One ("we," "our," or "us") and its services (the "Services").
+              These Terms of Service (&quot;Terms&quot;) explain the rules and conditions that apply when you use One One (&quot;we,&quot; &quot;our,&quot; or &quot;us&quot;) and its services (the &quot;Services&quot;).
             </p>
             <p className="mb-4">
               By accessing or using our Services, you confirm that you understand and agree to these Terms. You also acknowledge that you have reviewed and accepted our <Link href="/privacy" className="text-[#FDEC00] hover:underline">Privacy Policy</Link>.
@@ -26,7 +26,7 @@ export default function TermsOfService() {
           <section>
             <h2 className="text-2xl font-bold text-white mb-4">Changes to These Terms</h2>
             <p className="mb-4">
-              We're continuously improving One One and may update these Terms from time to time to reflect changes in our Services, features, or legal requirements. Updates will only be made when necessary. If we make significant changes, we'll notify you. However, we recommend checking these Terms periodically. Continuing to use the Services after changes are published means you accept the updated Terms.
+              We&apos;re continuously improving One One and may update these Terms from time to time to reflect changes in our Services, features, or legal requirements. Updates will only be made when necessary. If we make significant changes, we&apos;ll notify you. However, we recommend checking these Terms periodically. Continuing to use the Services after changes are published means you accept the updated Terms.
             </p>
           </section>
 
@@ -36,7 +36,7 @@ export default function TermsOfService() {
               You use One One at your own discretion and risk.
             </p>
             <p className="mb-4">
-              The Services are provided "as is" and "as available," without any guarantees or warranties of any kind. This includes, but is not limited to, implied warranties of merchantability, suitability for a specific purpose, non-infringement, ownership, or absence of harmful software.
+              The Services are provided &quot;as is&quot; and &quot;as available,&quot; without any guarantees or warranties of any kind. This includes, but is not limited to, implied warranties of merchantability, suitability for a specific purpose, non-infringement, ownership, or absence of harmful software.
             </p>
             <p className="mb-4">
               We do not guarantee that:
@@ -54,7 +54,7 @@ export default function TermsOfService() {
           <section>
             <h2 className="text-2xl font-bold text-white mb-4">Release</h2>
             <p className="mb-4">
-              To the fullest extent permitted by law, you agree to release and hold harmless One One, including its affiliates, subsidiaries, officers, directors, employees, partners, and agents (collectively, the "One One Parties"), from any claims, disputes, liabilities, or damages arising out of or related to:
+              To the fullest extent permitted by law, you agree to release and hold harmless One One, including its affiliates, subsidiaries, officers, directors, employees, partners, and agents (collectively, the &quot;One One Parties&quot;), from any claims, disputes, liabilities, or damages arising out of or related to:
             </p>
             <ul className="list-disc pl-5 space-y-2 mb-4">
               <li>Your interactions with other users</li>
@@ -69,7 +69,7 @@ export default function TermsOfService() {
           <section>
             <h2 className="text-2xl font-bold text-white mb-4">Limitation of Liability</h2>
             <p className="mb-4">
-              One One's liability is limited as follows:
+              One One&apos;s liability is limited as follows:
             </p>
             <ul className="list-disc pl-5 space-y-2 mb-4">
               <li>
